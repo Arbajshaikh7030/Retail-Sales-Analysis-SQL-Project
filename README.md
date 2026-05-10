@@ -51,72 +51,74 @@ The project demonstrates practical SQL skills used in real-world data analytics 
 
 ## Problem 1: Total Revenue Generated
 
-
+![image alt](https://github.com/Arbajshaikh7030/Retail-Sales-Analysis-SQL-Project/blob/cf86173785bfa097378b40ceac5fd0638e2d4f86/Screenshot%202026-05-10%20192339.png)
 
 
 ---
 
 ## Problem 2: Top Selling Product Categories
 
-
+![image alt]()
 
 ---
 
 ## Problem 3: Monthly Sales Performance
 
-
+![image alt]()
 
 ---
 
 ## Problem 4: Best Customers by Revenue
 
-
+![image alt]()
 
 ---
 
 ## Problem 5: Sales by Gender
 
-
+![image alt]()
 
 ---
 
 ## Problem 6: Average Customer Age by Category
 
-
+![image alt]()
 
 ---
 
 ## Problem 7: Highest Single Transaction
 
-
+![image alt]()
 
 ---
 
 ## Problem 8: Peak Sales Hours Analysis
 
-
+![image alt]()
 
 ---
 
 ## Problem 9: Running Total Sales (Window Function)
 
+![image alt]()
 
 ---
 
 ## Problem 10: Rank Categories by Revenue
 
+![image alt]()
 
 ---
 
 ## Problem 11: Profit Analysis
 
-
+![image alt]()
 
 ---
 
 ## Problem 12: Customer Segmentation
 
-
+![image alt]()
 
 ---
 
