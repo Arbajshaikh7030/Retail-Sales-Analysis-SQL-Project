@@ -58,67 +58,68 @@ The project demonstrates practical SQL skills used in real-world data analytics 
 
 ## Problem 2: Top Selling Product Categories
 
-![image alt]()
+![image alt](https://github.com/Arbajshaikh7030/Retail-Sales-Analysis-SQL-Project/blob/cf86173785bfa097378b40ceac5fd0638e2d4f86/Screenshot%202026-05-10%20192346.png)
 
 ---
 
 ## Problem 3: Monthly Sales Performance
 
-![image alt]()
+![image alt](https://github.com/Arbajshaikh7030/Retail-Sales-Analysis-SQL-Project/blob/cf86173785bfa097378b40ceac5fd0638e2d4f86/Screenshot%202026-05-10%20192354.png)
 
 ---
 
 ## Problem 4: Best Customers by Revenue
 
-![image alt]()
+![image alt](https://github.com/Arbajshaikh7030/Retail-Sales-Analysis-SQL-Project/blob/cf86173785bfa097378b40ceac5fd0638e2d4f86/Screenshot%202026-05-10%20192401.png)
 
 ---
 
 ## Problem 5: Sales by Gender
 
-![image alt]()
+![image alt](https://github.com/Arbajshaikh7030/Retail-Sales-Analysis-SQL-Project/blob/cf86173785bfa097378b40ceac5fd0638e2d4f86/Screenshot%202026-05-10%20192408.png)
 
 ---
 
 ## Problem 6: Average Customer Age by Category
 
-![image alt]()
+![image alt](https://github.com/Arbajshaikh7030/Retail-Sales-Analysis-SQL-Project/blob/cf86173785bfa097378b40ceac5fd0638e2d4f86/Screenshot%202026-05-10%20192414.png)
 
 ---
 
 ## Problem 7: Highest Single Transaction
 
-![image alt]()
+![image alt](https://github.com/Arbajshaikh7030/Retail-Sales-Analysis-SQL-Project/blob/cf86173785bfa097378b40ceac5fd0638e2d4f86/Screenshot%202026-05-10%20192419.png)
 
 ---
 
 ## Problem 8: Peak Sales Hours Analysis
 
-![image alt]()
+![image alt](https://github.com/Arbajshaikh7030/Retail-Sales-Analysis-SQL-Project/blob/cf86173785bfa097378b40ceac5fd0638e2d4f86/Screenshot%202026-05-10%20192427.png)
 
 ---
 
 ## Problem 9: Running Total Sales (Window Function)
 
-![image alt]()
+![image alt](https://github.com/Arbajshaikh7030/Retail-Sales-Analysis-SQL-Project/blob/cf86173785bfa097378b40ceac5fd0638e2d4f86/Screenshot%202026-05-10%20192435.png)
 
 ---
 
 ## Problem 10: Rank Categories by Revenue
 
-![image alt]()
+![image alt](https://github.com/Arbajshaikh7030/Retail-Sales-Analysis-SQL-Project/blob/cf86173785bfa097378b40ceac5fd0638e2d4f86/Screenshot%202026-05-10%20192442.png)
 
 ---
 
 ## Problem 11: Profit Analysis
 
-![image alt]()
+![image alt](
+https://github.com/Arbajshaikh7030/Retail-Sales-Analysis-SQL-Project/blob/cf86173785bfa097378b40ceac5fd0638e2d4f86/Screenshot%202026-05-10%20192447.png)
 
 ---
 
 ## Problem 12: Customer Segmentation
 
-![image alt]()
+![image alt](https://github.com/Arbajshaikh7030/Retail-Sales-Analysis-SQL-Project/blob/cf86173785bfa097378b40ceac5fd0638e2d4f86/Screenshot%202026-05-10%20192508.png)
 
 ---
 
